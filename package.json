@@ -1,0 +1,10 @@
+{
+	"name": "@doctormckay/proxy-agent",
+	"version": "1.0.0",
+	"description": "An HTTP Agent that connects to an HTTP proxy",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DoctorMcKay/node-proxy-agent"
+	}
+}
